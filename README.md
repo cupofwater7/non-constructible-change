@@ -1,4 +1,7 @@
+                                                Coding Interview Questions     
 # non-constructible-change
+
+Difficulty: easy
 
 
   Given an array of positive integers representing the values of coins in your
